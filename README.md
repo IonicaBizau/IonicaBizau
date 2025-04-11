@@ -14,13 +14,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building open
 
 ## 💖 Long-Term Sponsors
 
-Thanks to the amazing people and companies who support my work! 🙏
+Thanks to the amazing people and companies who support my work! 🙏 Want to become a sponsor? [Sponsor me on GitHub!](https://github.com/sponsors/IonicaBizau) · Want your logo to appear here? [Click here.](https://github.com/sponsors/IonicaBizau/sponsorships?sponsor=IonicaBizau&tier_id=479849&preview=false)
 
 [![](https://bloggify.org/wp-content/uploads/2021/03/brightbox.png)](https://www.brightbox.com)
 
-> Want to become a sponsor? [Sponsor me on GitHub!](https://github.com/sponsors/IonicaBizau)
-
-> Want your logo to appear here? [Contact me.](contact@ionicabizau.net)
 
 ---
 
