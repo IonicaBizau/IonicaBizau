@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building open
 - 🌐 Contributor to open source and always open to collaboration.
 - 🎹 I play piano and pipe organ.
 
-## 🔥 Some Cool Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IonicaBizau&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IonicaBizau&layout=compact&theme=tokyonight)
-
 ## 💼 Let's Connect
 
 🌐 [Website](https://ionicabizau.net) · 🎥 [YouTube](https://youtube.com/IonicaBizau) · 🎶 [Spotify](https://open.spotify.com/artist/73l2n9Q1I4qBF3JTEIqrGs?si=nVOQju4cT_epYTKvUQEDlA) · 📷 [Instagram](https://instagram.com/IonicaBizau) · 💬 [Blog](https://ionicabizau.net/blog)
