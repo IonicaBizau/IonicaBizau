@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Johnny B. (Ionică Bizău)! 🚀
 
+🌐 [Website](https://ionicabizau.net) · 🎥 [YouTube](https://youtube.com/IonicaBizau) · 🎶 [Spotify](https://open.spotify.com/artist/73l2n9Q1I4qBF3JTEIqrGs?si=nVOQju4cT_epYTKvUQEDlA) · 📷 [Instagram](https://instagram.com/IonicaBizau) · 💬 [Blog](https://ionicabizau.net/blog)
+
 Welcome to my GitHub profile! I'm a passionate developer who loves building open source tools and making the web a better place. 🌍
 
 ## 🛠️ What I Do
@@ -9,10 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building open
 - 🧠 I enjoy solving problems and sharing knowledge.
 - 🌐 Contributor to open source and always open to collaboration.
 - 🎹 I play piano and pipe organ.
-
-## 💼 Let's Connect
-
-🌐 [Website](https://ionicabizau.net) · 🎥 [YouTube](https://youtube.com/IonicaBizau) · 🎶 [Spotify](https://open.spotify.com/artist/73l2n9Q1I4qBF3JTEIqrGs?si=nVOQju4cT_epYTKvUQEDlA) · 📷 [Instagram](https://instagram.com/IonicaBizau) · 💬 [Blog](https://ionicabizau.net/blog)
 
 ## 💖 Long-Term Sponsors
 
