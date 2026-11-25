@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building open
 
 Thanks to the amazing people and companies who support my work! 🙏 Want to become a sponsor? [Sponsor me on GitHub!](https://github.com/sponsors/IonicaBizau) · Want your logo to appear here? [Click here.](https://github.com/sponsors/IonicaBizau/sponsorships?sponsor=IonicaBizau&tier_id=479849&preview=false)
 
-[![]([https://bloggify.org/assets/images/brightbox.png](https://bloggify.org/assets/images/brightbox.png))](https://www.brightbox.com)
+[![](https://bloggify.org/assets/images/brightbox.png)](https://www.brightbox.com)
 
 
 ---
